@@ -50,7 +50,7 @@
 
 ## Sobre mim
 
-### Apaixonado por tecnologia, buscando sempre aprender com o objectivo de trazer soluções tecnológicas inovadoras, acredito que a melhor arte que o ser humano tem, é a imaginação.
+### Apaixonado por tecnologia, buscando sempre aprender com o objectivo de trazer soluções tecnológicas inovadoras, acredito que a melhor arte que o ser humano tem é a imaginação.
 
 <h2>Contactos</h2>
 
